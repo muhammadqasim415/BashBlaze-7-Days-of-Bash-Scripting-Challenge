@@ -14,7 +14,7 @@ greeting="$variable1, $variable2!"
 echo "$greeting Welcome to the world of Bash scripting!"
 
 # Task  5: Using Built-in Variables
-echo "My current bash path - $BASH"
+echo "My current bash path dddd - $BASH"
 echo "Bash version I am using - $BASH_VERSION"
 echo "PID of bash I am running - $$"
 echo "My home directory - $HOME"
